@@ -27,9 +27,6 @@ Keys used:
  <li>Zoom minimap (r)</li>
 </ul>
 
-<h3>Inventory Tabs</h3>
-An optional mod I like that adds tabs to access other items within your reach while accessing your inventory
-
 <h3>malilib</h3>
 a library used by Minihud
 
