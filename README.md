@@ -1,6 +1,6 @@
 # Wyattcraft
 
-A modpack I'm creating to play on an origin modded server
+A modpack I'm creating to play on an origin modded server (I called it Wyattcraft as a joke, there's no xraying in the pack)
 
 <h2>How to Install</h2>
 
