@@ -1,4 +1,4 @@
-# Wyattcraft-creation
+# Wyattcraft
 
 A modpack I'm creating to play on an origin modded server
 
