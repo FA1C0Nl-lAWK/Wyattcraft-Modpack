@@ -103,7 +103,7 @@ Adds the contents of a shulker box to its tooltip
 <br>
 Keys used:
 <ul>
- <li>Shift (when hovering over the item) (Shift)</li>
+ <li>See full contents (when hovering over the item) (Shift)</li>
 </ul>
 
 <h3><a href="https://www.curseforge.com/minecraft/mc-mods/window-title-changer">Window Title Changer</a></h3>
