@@ -48,7 +48,7 @@ Adds glowing things at night
 <h3><a href="https://www.curseforge.com/minecraft/mc-mods/malilib">malilib</h3>
 a library used by Minihud
 
-<h3><a href="">Mambiance</h3>
+<h3><a href="https://www.curseforge.com/minecraft/mc-mods/mambience">Mambiance</h3>
 Adds many new ambiance sounds to minecraft
 
 <h3><a href="https://www.curseforge.com/minecraft/mc-mods/minihud">Minihud</h3>
@@ -63,10 +63,10 @@ Keys used:
 <h3><a href="https://www.curseforge.com/minecraft/mc-mods/modmenu">ModMenu</h3>
 Adds the mods options in the menu
 
-<h3><a href="">No more glowing pots</h3>
+<h3><a href="https://www.curseforge.com/minecraft/mc-mods/nomoreglowingpots">No more glowing pots</h3>
 Removes the enchanted effect from potions
 
-<h3><a href="">Now Playing</h3>
+<h3><a href="https://www.curseforge.com/minecraft/mc-mods/now-playing">Now Playing</h3>
 Adds a popup showing the current song being played
 
 <h3><a href="https://www.curseforge.com/minecraft/mc-mods/optifabric">Optifabric</h3>
